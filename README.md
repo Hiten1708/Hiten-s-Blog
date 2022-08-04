@@ -1,14 +1,13 @@
-# Hiten-s-Blog
-
-<img src="wave.gif" 
+<h1><img src="wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40"/>
-         HELLO !
+         Hiten-s-Blog
          <img src="wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40"/>
+<h1>
 
 Welcome to the Blog-Site for random posts. 
 
