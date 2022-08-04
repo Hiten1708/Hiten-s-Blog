@@ -1,5 +1,15 @@
 # Hiten-s-Blog
 
+<img src="gifs/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40"/>
+         HELLO !
+         <img src="gifs/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40"/>
+
 Welcome to the Blog-Site for random posts. 
 
 You can create posts and write about anything!! What? You don't like a post? No worries you can delete it too.
